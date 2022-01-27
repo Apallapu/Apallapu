@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apallapu&layout=compact)](https://github.com/apallapu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apallapu)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apallapu)](https://github.com/anuraghazra/github-readme-stats)
 
 

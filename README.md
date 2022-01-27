@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...  Any thing
 - 😄 Pronouns: ... He/His
 
+
+### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apallapu&layout=compact)](https://github.com/apallapu/github-readme-stats)
+
+
